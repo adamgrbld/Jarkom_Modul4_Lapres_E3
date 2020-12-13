@@ -8,7 +8,7 @@
 
 3. Dengan ilustrasi sebagai berikut:
 
-    ![soal]()
+    ![soal](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/soal.png)
     
 
 ## VLSM
@@ -19,12 +19,13 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
 
 - Mengelompokkan router, switch dan host. Hasil setelah dikelompokkan sebagai berikut:
 
-  ![1](vlsm)
+  ![vlsm](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/vlsm.png)
   
 - Dari perhitungan jumlah IP didapatkan ```Lenght = /19```. Kemudian menentukan ```NID``` dan ```netmask``` dari hasil perhitungan dan didapatkan hasil sebagai berikut:
 
-  ![2](ip)
-  ![3](nid)
+  ![ip](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/IP.jpg)
+  
+  ![nid](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/nid.png)
   
 - Dari NID diatas, berikut pembagian IP untuk masing-masing device
 
@@ -89,7 +90,7 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
   
   - Rangkaian device pada subnet A2
   
-    ![a2]()
+    ![a2](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/A2.png)
     
   - BLITAR (Router)
   
@@ -98,7 +99,7 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
     - Masukkan IP dan netmask sesuai pembagian diatas
     - Centang ```On``` di kanan atas
     
-    ![blitar]()
+      ![blitar](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/blitar.png)
     
   - TULUNGAGUNG (PC)
   
@@ -106,7 +107,7 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
     - Pilih ```Desktop``` > ```IP COnfiguration```
     - Masukkan IP dan netmask sesuai pembagian diatas, dan isikan gateway dengan IP Fa0/0 milik BLITAR
     
-    ![ta]()
+      ![ta](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/tulungagung.png)
     
   - Setting semua device sesuai langkah-langkah diatas
 
@@ -118,7 +119,7 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
   
     *setting default routing*
     
-    ![routing]()
+    ![routing](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/batu.png)
     
   - Tambahkan default routing berikut:
   
