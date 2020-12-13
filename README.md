@@ -215,7 +215,7 @@ xterm -T LUMAJANG -e linux ubd0=LUMAJANG,jarkom umid=LUMAJANG eth0=daemon,,,swit
 ```
 pada setiap melakukan perintah ``` nano /etc/sysctl.conf ``` lalu menghapus # pada net.ipv4.ip_forward=1,
 lalu melakukan konfigurasi pada ``` nano /etc/network/interfaces ``` seperti berikut
-#SURABAYA
+# SURABAYA
 ```
 #cloud
 auto eth0
@@ -248,4 +248,81 @@ iface eth4 inet static
 address 10.151.71.34
 netmask 255.255.255.252
 
+```
+# Pasuruan
+```
+auto lo
+iface lo inet loopback
+ 
+#surabaya
+auto eth0
+iface eth0 inet static
+address 192.168.192.2
+netmask 255.255.255.252
+gateway 192.168.192.1
+ 
+#probolinggo
+auto eth1
+iface eth1 inet static
+address 192.168.144.1
+netmask 255.255.255.252
+ 
+#sidoarjo
+auto eth2
+iface eth2 inet static
+address 192.168.160.1
+netmask 255.255.252.0
+
+```
+# Mojokerto
+```
+```
+# Sampang
+```
+```
+# Probolinggo
+```
+```
+
+# Sidoarjo
+```
+```
+# Banyuwangi
+```
+```
+# Jember
+```
+```
+# Bondowoso
+```
+```
+# Batu
+```
+```
+# Kediri
+```
+```
+# Jombang
+```
+```
+# Madiun
+```
+```
+# Bojonegoro
+```
+```
+# Nganjuk
+```
+```
+# Malang
+```
+```
+# Blitar
+```
+```
+# Lumajang
+```
+```
+# Tulungagung
+```
 ```
