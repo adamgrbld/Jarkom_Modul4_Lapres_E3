@@ -156,3 +156,5 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
     ```
     
 - Setting sudah selesai, kemudian test topologi
+
+## CIDR
