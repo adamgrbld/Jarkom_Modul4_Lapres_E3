@@ -8,7 +8,7 @@
 
 3. Dengan ilustrasi sebagai berikut:
 
-    ![soal](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/soal.png)
+![soal](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/soal.png)
     
 
 ## VLSM
@@ -151,4 +151,4 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
     0.0.0.0/0 via 192.168.1.2
     ```
     
-- Setting sudah selesai dan melakukan testing pada topologi
+- Setting sudah selesai, kemudian testing topologi
