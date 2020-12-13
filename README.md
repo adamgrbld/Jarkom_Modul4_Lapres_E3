@@ -121,6 +121,8 @@ Kami mengimplementasikan **VLSM** pada **Cisco Packet Tracer (CPT)**
     
     ![routing](https://github.com/adamgrbld/Jarkom_Modul4_Lapres_E3/blob/main/image/batu.png)
     
+    Kemudian klik ```Add```
+    
   - Tambahkan default routing berikut:
   
     ```
